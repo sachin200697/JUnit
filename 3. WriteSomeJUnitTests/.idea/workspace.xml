@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5be9ff3f-4568-4da2-ae9f-e7e5450432f4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27xFIUZ7EIOCgceIdqLnakDRpAj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTest.testOthers">
+    <configuration name="BankAccountTest.testDepositeTimeout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WriteSomeJUnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testDepositeTimeout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testHolderNameSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WriteSomeJUnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testHolderNameSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testNoWithdrawBelowMinimum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WriteSomeJUnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testNoWithdrawBelowMinimum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testOthers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WriteSomeJUnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testOthers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testWithdrawAndDepositWithoutExceptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WriteSomeJUnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testWithdrawAndDepositWithoutExceptions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTest.testOthers" />
+        <item itemvalue="JUnit.BankAccountTest.testDepositeTimeout" />
+        <item itemvalue="JUnit.BankAccountTest.testWithdrawAndDepositWithoutExceptions" />
+        <item itemvalue="JUnit.BankAccountTest.testNoWithdrawBelowMinimum" />
+        <item itemvalue="JUnit.BankAccountTest.testHolderNameSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5be9ff3f-4568-4da2-ae9f-e7e5450432f4" name="Changes" comment="" />
+      <created>1650253750770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650253750770</updated>
+    </task>
+    <servers />
+  </component>
+</project>
